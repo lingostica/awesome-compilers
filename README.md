@@ -11,9 +11,11 @@ My precious and minor languages
 * [Writing A Compiler In Go](https://compilerbook.com/)
 
 ## Implementations
+* [C3 Programming Language](https://c3-lang.org/) - The Ergonomic, Safe and Familiar Evolution of C
 * [Kit - A Functional Language for the Modern Era](https://kit-lang.org/) - A functional language that combines
 static safety with dynamic flexibility
 Kit blends Clojure-style expressiveness with Hindley-Milner type inference, capability-based security, and native compilation. Professional-grade tooling with helpful error messages and a dual-backend architecture (interpreter and compiler) for maximum developer productivity.
+* [Odin Programming Language](https://odin-lang.org/) - The Data-Oriented Language for People Who Ship
 * [Quack — Systems Programming Language](https://quacklang.org/) - A systems language that
 gets out of your way.
 Memory safety, deterministic cleanup, and compile-time data race prevention. No garbage collector. No lifetime annotations. A mental model small enough to hold in your head.
@@ -25,4 +27,5 @@ Memory safety, deterministic cleanup, and compile-time data race prevention. No 
 Modern Ergonomics.
 Zero Overhead.
 Pure C.
+* [Zeta — The Final Systems Language](https://z-lang.org/)
 A strictly typed systems language that brings pattern matching, traits, and ownership semantics to the C ecosystem.
