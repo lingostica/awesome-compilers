@@ -3,10 +3,9 @@ My precious and minor languages
 
 ## Contents
 * [Books](#books)
-* [C](#c)
+* [C/C++](#cc)
 * [C++](#c++)
 * [Rust](#rust)
-* [TypeScript](#typescript)
 * [Zeta](#zeta)
 * [Zig](#zig)
 
@@ -18,6 +17,7 @@ My precious and minor languages
 
 ## C
 * [C3 Programming Language](https://c3-lang.org/) - The Ergonomic, Safe and Familiar Evolution of C
+* [Odin Programming Language](https://odin-lang.org/) - The Data-Oriented Language for People Who Ship
 * [Pony](https://www.ponylang.io/) - An open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
 * [T3X.ORG subc/index](https://t3x.org/subc/index.html) - SubC is a fast and simple public domain compiler for a clean subset of the C programming language. It can compile itself and passes gcc -Wall -pedantic. Its internals are described in detail in the book
 * [The V Programming Language](https://vlang.io/) - Simple, fast, safe, compiled. For developing maintainable software.
@@ -25,8 +25,6 @@ My precious and minor languages
 Modern Ergonomics.
 Zero Overhead.
 Pure C.
-## C++
-* [Odin Programming Language](https://odin-lang.org/) - The Data-Oriented Language for People Who Ship
 ## Rust
 * [Quack — Systems Programming Language](https://quacklang.org/) - A systems language that
 gets out of your way.
