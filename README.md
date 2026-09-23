@@ -15,7 +15,7 @@ My precious and minor languages
 * [Writing A Compiler In Go](https://compilerbook.com/)
 * [GunterMueller/Mak_Writing_Compilers_and_Interpreters](https://github.com/GunterMueller/Mak_Writing_Compilers_and_Interpreters) -  Source for the books from Ronald Mak - Writing Compilers and Interpreters.
 
-## C
+## C/C++
 * [C3 Programming Language](https://c3-lang.org/) - The Ergonomic, Safe and Familiar Evolution of C
 * [Odin Programming Language](https://odin-lang.org/) - The Data-Oriented Language for People Who Ship
 * [Pony](https://www.ponylang.io/) - An open-source, object-oriented, actor-model, capabilities-secure, high-performance programming language.
